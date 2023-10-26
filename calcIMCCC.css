@@ -111,16 +111,16 @@ label{
   }
 
   .tabela tr:nth-child(even) {
-    background-color: #4f7e7721; /* Define a cor de fundo para as linhas pares */
+    background-color: #4f7e7721; 
   }
 
   .tabela td {
-    padding: 10px; /* Define o espaçamento interno das células */
+    padding: 10px; 
   }
 
   .tabela tr:first-child td {
     
-    font-weight: bold; /* Define o estilo em negrito para os cabeçalhos da tabela */
+    font-weight: bold; 
   }
 
   #indice{
